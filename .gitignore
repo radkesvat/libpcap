@@ -7,6 +7,7 @@ capturetest
 can_set_rfmon_test
 CMakeCache.txt
 cmake_install.cmake
+cmake_uninstall.cmake
 CMakeFiles/
 config.h
 config.log
@@ -71,3 +72,6 @@ msdos/.depend.dj
 msdos/bin2c.exe
 msdos/pkt_rx1.lst
 msdos/pkt_stub.inc
+*.exe
+*.a
+archdetect.c
